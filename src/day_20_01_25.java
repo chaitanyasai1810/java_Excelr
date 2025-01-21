@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class day_20_01_25 
 {
     public static void main(String[] args)
